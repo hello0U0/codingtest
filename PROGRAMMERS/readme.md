@@ -12,6 +12,7 @@
 |[스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971#)|dp|dp때 각 원소값 구하는 계산 잘하기|
 |[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|이분탐색|탐색 변수 잘 생각하기| 
 |[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)||풀이방법 기억하자| 
+|[2018 KAKAO BLIND RECRUITMENT_셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)|이진탐색|lowwer, upper 구분하기|
 # 해결
 
 |문제 제목|언어|알고리즘|알아둘점|
@@ -35,3 +36,4 @@
 |20230418|[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)|heapq|배열이 크다면 슬라이딩 윈도우, 이중 포인터, left-mid,-right 등 짧은 시간 생각해보기| 
 |20230627|[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|이분탐색|탐색 변수 잘 생각하기| 
 |20230627|[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)||풀이방법 기억하자| 
+|20230808|[2018 KAKAO BLIND RECRUITMENT_셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)|이진탐색|lowwer, upper 구분하기|
