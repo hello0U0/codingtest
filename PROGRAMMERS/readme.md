@@ -13,6 +13,7 @@
 |[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|이분탐색|탐색 변수 잘 생각하기| 
 |[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)||풀이방법 기억하자| 
 |[2018 KAKAO BLIND RECRUITMENT_셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)|이진탐색|lowwer, upper 구분하기|
+|[2018 KAKAO BLIND RECRUITMENT_자물쇠와열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|브루트포스|브루트포스로 해결할 수 있으면 일단 해보기|
 # 해결
 
 |문제 제목|언어|알고리즘|알아둘점|
@@ -37,3 +38,4 @@
 |20230627|[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|이분탐색|탐색 변수 잘 생각하기| 
 |20230627|[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)||풀이방법 기억하자| 
 |20230808|[2018 KAKAO BLIND RECRUITMENT_셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)|이진탐색|lowwer, upper 구분하기|
+|202308069|[2018 KAKAO BLIND RECRUITMENT_자물쇠와열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|브루트포스|브루트포스로 해결할 수 있으면 일단 해보기|
