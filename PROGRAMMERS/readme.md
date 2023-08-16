@@ -26,7 +26,9 @@
 |[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628?language=python3#)|heapq|두 heapq 사용법|
 |[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|heapq|노가다 계산보다는 heapq...|
 |[주차요금계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|defaultdict|문자열 노가다 -> defaultdict|
+
 # 날짜별 문제
+
 |날짜|문제 제목|알고리즘|기타 내용|
 |:---:|:--:|:---|:---|
 |20230411|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|bfs|isvalid|
@@ -44,3 +46,4 @@
 |20230810|[월간 코드 챌린지 시즌1_풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)|수학?||
 |20230811|[2021DEV-MATCHING_다단계칫솔판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|수학?||
 |20230812|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|플로이드워셜|그래프 알고리즘 기억하기|
+|20230816|[연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)|수학?||
