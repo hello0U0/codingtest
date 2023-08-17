@@ -15,6 +15,7 @@
 |[2018 KAKAO BLIND RECRUITMENT_셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)|이진탐색|lowwer, upper 구분하기|
 |[2018 KAKAO BLIND RECRUITMENT_자물쇠와열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|브루트포스|브루트포스로 해결할 수 있으면 일단 해보기|
 |[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|플로이드워셜|그래프 알고리즘 기억하기|
+|[거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907)|dp|풀이법 기억하기|
 
 
 # 해결
@@ -47,3 +48,4 @@
 |20230811|[2021DEV-MATCHING_다단계칫솔판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|수학?||
 |20230812|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|플로이드워셜|그래프 알고리즘 기억하기|
 |20230816|[연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)|수학?||
+|20230816|[거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907)|dp|풀이법 기억하기|
