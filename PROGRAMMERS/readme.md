@@ -3,9 +3,6 @@
 |문제 제목|알고리즘|알아둘점|
 |:---:|:---|:---|
 |[최소값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|구현|inner_product 함수 사용|
-|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|bfs|isvalid는 하나로 사용 가능(큐에 매번 넣지 않아도 된다.)|
-|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|그리디|그리디 기본 원리|
-|[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|?|작은 수부터 A < B로 만들기 |
 |[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|?|기지국 설치|
 |[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|브루트포스, dfs|re, itertools|
 |[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258#)|이중 포인터, 슬라이딩 윈도우|이중포인터는 같은 방향으로도 나아갈 수 있음|
@@ -27,6 +24,9 @@
 |[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628?language=python3#)|heapq|두 heapq 사용법|
 |[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|heapq|노가다 계산보다는 heapq...|
 |[주차요금계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|defaultdict|문자열 노가다 -> defaultdict|
+|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|bfs|isvalid는 하나로 사용 가능(큐에 매번 넣지 않아도 된다.)|
+|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|그리디|그리디 기본 원리|
+|[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|?|작은 수부터 A < B로 만들기 |
 
 # 날짜별 문제
 
