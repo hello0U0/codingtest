@@ -10,10 +10,11 @@
 |[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|이분탐색|탐색 변수 잘 생각하기| 
 |[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)||풀이방법 기억하자| 
 |[2018 KAKAO BLIND RECRUITMENT_셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)|이진탐색|lowwer, upper 구분하기|
-|[2018 KAKAO BLIND RECRUITMENT_자물쇠와열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|브루트포스|브루트포스로 해결할 수 있으면 일단 해보기|
+|[2020 KAKAO BLIND RECRUITMENT_자물쇠와열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|브루트포스|브루트포스로 해결할 수 있으면 일단 해보기|
 |[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|플로이드워셜|그래프 알고리즘 기억하기|
 |[거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907)|dp|풀이법 기억하기|
-|[2018 KAKAO BLIND RECRUITMENT_파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|누적합|누적합 기억하기|
+|[2022 KAKAO BLIND RECRUITMENT_파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|누적합|누적합 기억하기|
+|[2019 KAKAO BLIND RECRUITMENT_길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|이진트리|이진트리 만들기, 재귀 1000번 이상 일 때 sys 사용하기, 전위후위순회 기억하기|
 
 # 해결
 
@@ -43,11 +44,12 @@
 |20230627|[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|이분탐색|탐색 변수 잘 생각하기| 
 |20230627|[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)||풀이방법 기억하자| 
 |20230808|[2018 KAKAO BLIND RECRUITMENT_셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)|이진탐색|lowwer, upper 구분하기|
-|202308069|[2018 KAKAO BLIND RECRUITMENT_자물쇠와열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|브루트포스|브루트포스로 해결할 수 있으면 일단 해보기|
+|202308069|[2020 KAKAO BLIND RECRUITMENT_자물쇠와열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|브루트포스|브루트포스로 해결할 수 있으면 일단 해보기|
 |20230810|[월간 코드 챌린지 시즌1_풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)|수학?||
 |20230811|[2021DEV-MATCHING_다단계칫솔판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|수학?||
 |20230812|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|플로이드워셜|그래프 알고리즘 기억하기|
 |20230816|[연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)|수학?||
 |20230817|[거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907)|dp|풀이법 기억하기|
 |20230818|[부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)|최단거리||
-|20230820|[2018 KAKAO BLIND RECRUITMENT_파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|누적합|누적합 기억하기|
+|20230821|[2022 KAKAO BLIND RECRUITMENT_파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|누적합|누적합 기억하기|
+|20230822|[2019 KAKAO BLIND RECRUITMENT_길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|이진트리|이진트리 만들기, 재귀 1000번 이상 일 때 sys 사용하기, 전위후위순회 기억하기|
