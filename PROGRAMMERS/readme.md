@@ -15,6 +15,7 @@
 |[거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907)|dp|풀이법 기억하기|
 |[2022 KAKAO BLIND RECRUITMENT_파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|누적합|누적합 기억하기|
 |[2019 KAKAO BLIND RECRUITMENT_길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|이진트리|이진트리 만들기, 재귀 1000번 이상 일 때 sys 사용하기, 전위후위순회 기억하기|
+|[2021 카카오 채용연계형 인턴십_표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)|linked list|자료구조 다시보기|
 
 # 해결
 
@@ -53,3 +54,4 @@
 |20230818|[부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)|최단거리||
 |20230821|[2022 KAKAO BLIND RECRUITMENT_파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|누적합|누적합 기억하기|
 |20230822|[2019 KAKAO BLIND RECRUITMENT_길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|이진트리|이진트리 만들기, 재귀 1000번 이상 일 때 sys 사용하기, 전위후위순회 기억하기|
+|20230823|[2021 카카오 채용연계형 인턴십_표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)|linked list|자료구조 다시보기|
