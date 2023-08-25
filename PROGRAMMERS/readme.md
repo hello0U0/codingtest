@@ -29,6 +29,7 @@
 |[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|bfs|isvalid는 하나로 사용 가능(큐에 매번 넣지 않아도 된다.)|
 |[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|그리디|그리디 기본 원리|
 |[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|?|작은 수부터 A < B로 만들기 |
+|[2020 KAKAO BLIND RECRUITMENT_기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)|구현|최대 계산 수 생각하고 단순하게 풀기|
 
 # 날짜별 문제
 
@@ -55,3 +56,4 @@
 |20230821|[2022 KAKAO BLIND RECRUITMENT_파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|누적합|누적합 기억하기|
 |20230822|[2019 KAKAO BLIND RECRUITMENT_길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|이진트리|이진트리 만들기, 재귀 1000번 이상 일 때 sys 사용하기, 전위후위순회 기억하기|
 |20230823|[2021 카카오 채용연계형 인턴십_표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)|linked list|자료구조 다시보기|
+|20230824|[2020 KAKAO BLIND RECRUITMENT_기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)|구현|최대 계산 수 생각하고 단순하게 풀기|
