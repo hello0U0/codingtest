@@ -3,8 +3,6 @@
 |문제 제목|알고리즘|알아둘점|
 |:---:|:---|:---|
 |[최소값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|구현|inner_product 함수 사용|
-|[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|?|보편적 알고리즘 사용하기|
-|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|브루트포스, dfs|re, itertools, 리스트는 그대로 사용해서 append하면 같은 주소로 이어진다...|
 |[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258#)|이중 포인터, 슬라이딩 윈도우|이중포인터는 같은 방향으로도 나아갈 수 있음|
 |[스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971#)|dp|dp때 각 원소값 구하는 계산 잘하기|
 |[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|이분탐색|탐색 변수 잘 생각하기| 
@@ -32,7 +30,8 @@
 |[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|그리디|그리디 기본 원리|
 |[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|?|작은 수부터 A < B로 만들기 |
 |[2020 KAKAO BLIND RECRUITMENT_기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)|구현|최대 계산 수 생각하고 단순하게 풀기|
-
+|[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|?|보편적 알고리즘 사용하기|
+|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|브루트포스, dfs|re, itertools, 리스트는 그대로 사용해서 append하면 같은 주소로 이어진다...|
 # 날짜별 문제
 
 |날짜|문제 제목|알고리즘|기타 내용|
