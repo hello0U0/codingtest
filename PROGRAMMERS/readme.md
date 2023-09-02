@@ -61,3 +61,4 @@
 |20230824|[2020 KAKAO BLIND RECRUITMENT_기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)|구현|최대 계산 수 생각하고 단순하게 풀기|
 |20230825|[인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)|수학?|조건 잘 계산하고 단순한 풀이법 생각하기|
 |20230828|[2021 KAKAO BLIND RECRUITMENT_광고삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|누적합|누적합, 오타 주의|
+|20230901|[교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|수학?||
