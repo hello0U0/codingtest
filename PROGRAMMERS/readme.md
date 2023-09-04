@@ -16,6 +16,7 @@
 |[2021 카카오 채용연계형 인턴십_표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)|linked list|자료구조 다시보기|
 |[인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)|수학?|조건 잘 계산하고 단순한 풀이법 생각하기|
 |[2021 KAKAO BLIND RECRUITMENT_광고삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|누적합|누적합, 오타 주의|
+|[2022 KAKAO BLIND RECRUITMENT_양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|dfs|범위가 작으면 완전탐색 생각하기|
 
 # 해결
 
@@ -61,3 +62,4 @@
 |20230825|[인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)|수학?|조건 잘 계산하고 단순한 풀이법 생각하기|
 |20230828|[2021 KAKAO BLIND RECRUITMENT_광고삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|누적합|누적합, 오타 주의|
 |20230901|[교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|수학?||
+|20230904|[2022 KAKAO BLIND RECRUITMENT_양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|dfs|범위가 작으면 완전탐색 생각하기|
