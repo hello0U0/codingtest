@@ -19,6 +19,7 @@
 |[2021 KAKAO BLIND RECRUITMENT_광고삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|누적합|누적합, 오타 주의|[풀이](./KAKAO_광고삽입.py)|
 |[2022 KAKAO BLIND RECRUITMENT_양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|dfs|범위가 작으면 완전탐색 생각하기|[풀이](./KAKAO_양과늑대.py)|
 |[2020 KAKAO BLIND RECRUITMENT_외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)|완전탐색|순열 기억하기|[풀이](./KAKAO_외벽점검.py)|
+|[2023 KAKAO BLIND RECRUITMENT_미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|수학?,bfs|...|[풀이](./KAKAO_미로탈출명령어.py)|
 
 # 해결
 
@@ -67,3 +68,4 @@
 |20230901|[교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|수학?||[풀이](./교점에별만들기.py)|
 |20230904|[2022 KAKAO BLIND RECRUITMENT_양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|dfs|범위가 작으면 완전탐색 생각하기|[풀이](./KAKAO_양과늑대.py)|
 |20230907|[2020 KAKAO BLIND RECRUITMENT_외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)|완전탐색|순열 기억하기|[풀이](./KAKAO_외벽점검.py)|
+|20230908|[2023 KAKAO BLIND RECRUITMENT_미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|수학?,bfs|...|[풀이](./KAKAO_미로탈출명령어.py)|
