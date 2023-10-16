@@ -7,6 +7,7 @@
 |알고리즘|기본 문제 링크|풀이링크|
 |:---:|:---:|:---:|
 |최단거리 - Dijkstra|[미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|[풀이](./PROGRAMMERS/미로탈출.py)|
+|최단거리 - FloydWarshall|[KAKAO_합승택시요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413?language=python3)|[풀이](./PROGRAMMERS/KAKAO_합승택시요금.py)|
 
 ## 다시보기
 |문제 제목|알고리즘|알아둘점|풀이|
