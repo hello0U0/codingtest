@@ -1,13 +1,14 @@
 # codingtest
  * 알고리즘 문제풀이들을 올립니다.
 
-# 프로그래머스 코딩테스트연습
-
-## 알고리즘
+# 알고리즘
 |알고리즘|기본 문제 링크|풀이링크|
 |:---:|:---:|:---:|
 |최단거리 - Dijkstra|[미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|[풀이](./PROGRAMMERS/미로탈출.py)|
 |최단거리 - FloydWarshall|[KAKAO_합승택시요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413?language=python3)|[풀이](./PROGRAMMERS/KAKAO_합승택시요금.py)|
+|최단거리 - BellmanFord|[1865번_웜홀](https://www.acmicpc.net/problem/1865)|[풀이](./BAEKJOON/1865.py)|
+
+# 프로그래머스 코딩테스트연습
 
 ## 다시보기
 |문제 제목|알고리즘|알아둘점|풀이|
